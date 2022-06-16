@@ -4,6 +4,9 @@
 
 
 For ## Windows 
+## All the commands are written in Command Prompt (Admin)
+To open Command Prompt with administrative privileges, right-click the result and then click “Run as Administrator.”
+<img src="https://user-images.githubusercontent.com/60445096/173980989-fcf2d409-7e9e-46a0-b176-33ab42a8bff2.png" width="45%"></img> 
 ______________
 Recommended Steps for succussful running 
 
@@ -59,7 +62,11 @@ __________________________________________
 
 ## if all the above commands are running and giving no error,  your environment is ready to run the app now.
 
-1. Use any Python IDE (PyCharm, Spyder, Visual Studio Code) to open the project
-2. run index.py
-3. Mostly, it will be running on server  http://127.0.0.1:5000/
-4. type  http://127.0.0.1:5000/ in the browser and everthing should be working fine
+1.    Use any Python IDE (PyCharm, Spyder, Visual Studio Code) to open the project
+2.0   run index.py  
+2.1   if you don't have a Python IDE installed, open cmd and run 
+      ```   
+      $ python3 index.py  
+      ```  
+3.    Mostly, it will be running on server  http://127.0.0.1:5000/
+4.    type  http://127.0.0.1:5000/ in the browser and everthing should be working fine
