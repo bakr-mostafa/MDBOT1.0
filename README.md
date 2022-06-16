@@ -13,7 +13,7 @@ Recommended Steps for succussful running
     
       Check python version
        ```
-   -    $ python -V
+      $ python -V
        ```
 2. install PIP
     download the get-pip.py file.
