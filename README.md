@@ -21,9 +21,9 @@ Recommended Steps for succussful running
    
    command to download the get-pip.py file
    
-       ```
+       
        $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-       ```      
+             
    
    - install PIP
     
